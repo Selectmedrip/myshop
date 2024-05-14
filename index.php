@@ -22,8 +22,7 @@
                     <div class="col-lg-7 pb-5 pt-5">
                         <p class="fw-normal h4 text-uppercase">Новая коллекция</p>
                         <h1 class="display-3 fw-bold mb-3">Лучший бренд Новый стиль</h1>
-                        <p class="lead mb-4">
-Наша способность чувствовать, действовать и общаться, неотличима от магии.</p><a href="collection.php" class="btn btn-light pb-2 ps-4 pe-4 pt-2">Перейти к новинкам</a>
+                        <p class="lead mb-4">Наша способность чувствовать, действовать и общаться, неотличима от магии.</p><a href="collection.php" class="btn btn-light pb-2 ps-4 pe-4 pt-2">Перейти к новинкам</a>
                     </div>
                 </div>
             </div>
@@ -51,6 +50,17 @@
                     </div>                     
                 </div>                 
             </section> коллекции по принадлежности к полу будут в будущем вместе с поисковиком-->
+            <div class="align-items-center row">
+                <div class="col">
+                    <hr class="mb-0 mt-0"> 
+                </div>
+                <div class="col-auto">
+                    <h2 class="fw-normal lead mb-0 text-dark">% Акции %</h2> 
+                </div>
+                <div class="col">
+                    <hr class="mb-0 mt-0"> 
+                </div>
+            </div>
             <section class=" pb-3 pt-3 text-center"> 
                 <div class="container"> 
                     <div class="bg-dark text-white">
@@ -198,9 +208,19 @@
                             </div>                             
                         </div>                         
                     </div>
-                                        
                 </div>                 
             </section>
+            <div class="align-items-center row">
+                <div class="col">
+                    <hr class="mb-0 mt-0"> 
+                </div>
+                <div class="col-auto">
+                    <h2 class="fw-normal lead mb-0 text-dark">О нас</h2> 
+                </div>
+                <div class="col">
+                    <hr class="mb-0 mt-0"> 
+                </div>
+            </div>
             <section class="bg-light mb-4 mt-4 pb-5 pt-5 text-center"> 
                 <div class="container pb-3 position-relative pt-3"> 
                     <div class="row"> 
@@ -211,13 +231,13 @@
                                         <img src="https://images.unsplash.com/photo-1517101724602-c257fe568157?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDZ8fHBhcnJvdHxlbnwwfHx8&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=360&h=360&fit=crop" class="img-fluid mb-3 rounded-circle testimonial_img" width="120" height="120" alt="User image">
                                         <p class="mb-4">    Пусть он определенным образом убежит из двух домов. Есть такие, которые рожают двоих мужчин и на короткое время от боли размягчают волосы. Элитарные, оставляют ли они на время свои увлечения, или оставляют их ради удовольствия, если только не оставят.</p>
                                         <h2 class="fw-bold h5 mb-0 text-dark">Арман Папиянц</h2>
-                                        <p class="small">Генеральный директор</p> 
+                                        <p class="small">Главный разработчик</p> 
                                     </div>
                                     <div class="carousel-item"> 
                                         <img src="https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=360&h=360&fit=crop" class="img-fluid mb-3 rounded-circle testimonial_img" width="120" height="120" alt="User image">
                                         <p class="mb-4">Пусть он определенным образом убежит из двух домов. Есть такие, которые рожают двоих мужчин и на короткое время от боли размягчают волосы. Элитарные, оставляют ли они на время свои увлечения, или оставляют их ради удовольствия, если только не оставят.</p>
                                         <h2 class="fw-bold h5 mb-0 text-dark">Валентина Саяпина</h2>
-                                        <p class="small">Главный разработчик</p> 
+                                        <p class="small">Генеральный директор</p> 
                                     </div>
                                     <div class="carousel-item"> 
                                         <img src="https://images.unsplash.com/photo-1574158622682-e40e69881006?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDd8fGNhdHxlbnwwfHx8&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=360&h=360&fit=crop" class="img-fluid mb-3 rounded-circle testimonial_img" width="120" height="120" alt="User image">
@@ -336,24 +356,9 @@
             <div class="container mt-5 pb-4 pt-4">
                 <hr class="mb-0 mt-0"/>
             </div>
-            <section class="pb-5 pt-5 text-center"> 
-                <div class="container pb-4 pt-4"> 
-                    <div class="row"> 
-                        <div class="col-lg-8 ms-auto me-auto py-3"> 
-                            <h2 class="text-dark">Подпишитесь на нашу новостную рассылку и получите 15% скидку</h2> 
-                            <p class="mb-5 text-secondary">Подпишитесь на нашу рассылку, чтобы получать обновления и эксклюзивные предложения</p> 
-                            <div class="col-md-9 col-xl-8 ms-auto me-auto"> 
-                                <form> 
-                                    <div class="bg-white border input-group overflow-hidden p-1">
-                                        <input type="text" class="border-0 form-control pe-3 ps-3" placeholder="Ваша почта..." aria-label="Recipient's email" aria-describedby="newsletter-submit">
-                                        <button class="btn btn-dark pb-2 pe-4 ps-4 pt-2 rounded-0" type="button" id="newsletter-submit">Подписаться</button>
-                                    </div>
-                                </form>                                 
-                            </div>                             
-                        </div>                         
-                    </div>                     
-                </div>                 
-            </section>
+            <?php
+                include("subscribe.php");
+            ?>
         </main>
         <div class="container-fluid p-0">
             <div class="g-0 row">

@@ -152,7 +152,25 @@
         include("footer.php");
     ?>
 
-    <script src="script/trash.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+    $(document).ready(function(){
+        $(".add-to-cart-btn").click(function(){
+            var id = $(this).data("id");
+            $.ajax({
+                url: 'add_to_cart.php',
+                type: 'post',
+                data: {product_id: id},
+                success: function(response){
+                    alert(response);
+                }
+            });
+        });
+    });
+    </script>
+
+
+        <!--<script src="script/trash.js"></script>-->  
     <script src="bootstrap/js/bootstrap.min.js"></script>
 </body>
 </html>

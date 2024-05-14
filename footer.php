@@ -33,7 +33,7 @@
                             <li class="mb-3"> <a href="#" class="link-light text-decoration-none">Content Writing</a> 
                             </li>                             
                         </ul>                         
-                    </div> в будущем больше-->                     
+                    </div> Запасной блок-->                     
                     <div class="col-md-6 col-xl-4 py-3"> 
                         <h2 class="fw-normal h5 mb-4 text-uppercase text-white">Подпишитесь!</h2>
                         <p class="mb-3">Подпишитесь на нашу рассылку и получайте эксклюзивные обновления прямо на свою почту.</p>

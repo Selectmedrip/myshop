@@ -33,7 +33,7 @@
                         </div>
                         <div class="align-items-center card-footer d-flex justify-content-between small"><a href="#" class="align-items-center d-flex link-dark text-decoration-none"><img src="https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=400&amp;h=400&amp;fit=crop" class="me-2 rounded-circle" width="40" height="40" alt="Author image"><div>
                                     <h3 class="h6 mb-0">Валентина Саяпина</h3>
-                                    <p class="mb-0 text-secondary">10 Октября 2023</p>
+                                    <p class="mb-0 text-secondary">10 Февраля 2024</p>
                                 </div></a>
                         </div>
                     </div>                             
@@ -45,7 +45,7 @@
                         </div>
                         <div class="align-items-center card-footer d-flex justify-content-between small"><a href="#" class="align-items-center d-flex link-dark text-decoration-none"><img src="https://images.unsplash.com/photo-1574158622682-e40e69881006?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDd8fGNhdHxlbnwwfHx8&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=400&amp;h=400&amp;fit=crop" class="me-2 rounded-circle" width="40" height="40" alt="Author image"><div>
                                     <h3 class="h6 mb-0">Анна Оствальд</h3>
-                                    <p class="mb-0 text-secondary">10 Октября 2023</p>
+                                    <p class="mb-0 text-secondary">10 Февраля 2024</p>
                                 </div></a>
                         </div>
                     </div>                             
@@ -57,7 +57,7 @@
                         </div>
                         <div class="align-items-center card-footer d-flex justify-content-between small"><a href="#" class="align-items-center d-flex link-dark text-decoration-none"><img src="https://images.unsplash.com/photo-1517101724602-c257fe568157?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDZ8fHBhcnJvdHxlbnwwfHx8&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=400&amp;h=400&amp;fit=crop" class="me-2 rounded-circle" width="40" height="40" alt="Author image"><div>
                                     <h3 class="h6 mb-0">Арман Папиянц</h3>
-                                    <p class="mb-0 text-secondary">10 Октября 2023</p>
+                                    <p class="mb-0 text-secondary">10 Февраля 2024</p>
                                 </div></a>
                         </div>
                     </div>                             
