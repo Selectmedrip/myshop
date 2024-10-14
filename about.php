@@ -33,19 +33,13 @@
                         <div class="col-lg-8 ms-auto me-auto"> 
                             <div id="carousel5" class="carousel slide" data-bs-ride="carousel"> 
                                 <div class="carousel-inner"> 
-                                    <div class="carousel-item"> 
+                                    <div class="carousel-item active"> 
                                         <img src="https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=360&amp;h=360&amp;fit=crop" class="img-fluid mb-3 rounded-circle testimonial_img" width="120" height="120" alt="User image">
                                         <p class="mb-4">    Пусть он определенным образом убежит из двух домов. Есть такие, которые рожают двоих мужчин и на короткое время от боли размягчают волосы. Элитарные, оставляют ли они на время свои увлечения, или оставляют их ради удовольствия, если только не оставят.</p>
                                         <h2 class="fw-bold h5 mb-0 text-dark">Валентина Саяпина</h2>
                                         <p class="small">Генеральный директор</p> 
                                     </div>
                                     <div class="carousel-item"> 
-                                        <img src="https://images.unsplash.com/photo-1517101724602-c257fe568157?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDZ8fHBhcnJvdHxlbnwwfHx8&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=360&amp;h=360&amp;fit=crop" class="img-fluid mb-3 rounded-circle testimonial_img" width="120" height="120" alt="User image">
-                                        <p class="mb-4">Пусть он определенным образом убежит из двух домов. Есть такие, которые рожают двоих мужчин и на короткое время от боли размягчают волосы. Элитарные, оставляют ли они на время свои увлечения, или оставляют их ради удовольствия, если только не оставят.</p>
-                                        <h2 class="fw-bold h5 mb-0 text-dark">Арман Папиянц</h2>
-                                        <p class="small">Главный разработчик</p> 
-                                    </div>
-                                    <div class="carousel-item active"> 
                                         <img src="https://images.unsplash.com/photo-1574158622682-e40e69881006?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDd8fGNhdHxlbnwwfHx8&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=360&amp;h=360&amp;fit=crop" class="img-fluid mb-3 rounded-circle testimonial_img" width="120" height="120" alt="User image">
                                         <p class="mb-4">Пусть он определенным образом убежит из двух домов. Есть такие, которые рожают двоих мужчин и на короткое время от боли размягчают волосы. Элитарные, оставляют ли они на время свои увлечения, или оставляют их ради удовольствия, если только не оставят.</p>
                                         <h2 class="fw-bold h5 mb-0 text-dark">Анна Оствальд</h2>
@@ -53,9 +47,8 @@
                                     </div>                                     
                                 </div>
                                 <ol class="carousel-indicators position-relative"> 
-                                    <li data-bs-target="#carousel5" data-bs-slide-to="0" class="bg-dark"></li>                                     
+                                    <li data-bs-target="#carousel5" data-bs-slide-to="0" class="bg-dark  active" aria-current="true"></li>                                                   
                                     <li data-bs-target="#carousel5" data-bs-slide-to="1" class="bg-dark"></li>                                     
-                                    <li data-bs-target="#carousel5" data-bs-slide-to="2" class="bg-dark active" aria-current="true"></li>                                     
                                 </ol>                                 
                             </div>                             
                         </div>                         

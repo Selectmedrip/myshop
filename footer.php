@@ -3,7 +3,7 @@
                 <div class="row"> 
                     <div class="col-xl-4 py-3"> <a href="#" class="d-inline-block fw-bold h2 link-light mb-4 text-decoration-none" target>Макс Дев</a> 
                         <p class="mb-3">                                Нужна помощь? Свяжитесь с нами!</p> 
-                        <div class="mb-4"> <a href="tel:+74954567689" class="link-light text-decoration-none">+7 495 456-76-89</a> <br> <a href="mailto:wrld@annashop.ru" class="link-light text-decoration-none">wrld@annashop.ru</a> 
+                        <div class="mb-4"> <a href="tel:+74954567689" class="link-light text-decoration-none">+7 495 777 77 78</a> <br> <a href="mailto:help@MaxDev.ru" class="link-light text-decoration-none">help@MaxDev.ru</a> 
                         </div>                         
                     </div>                     
                     <div class="col-md-3 col-xl-2 py-3"> 
@@ -11,7 +11,7 @@
                         <ul class="list-unstyled"> 
                             <li class="mb-3"> <a href="about.php" class="link-light text-decoration-none">О нас</a> 
                             </li>                             
-                            <li class="mb-3"> <a href="employee.php" class="link-light text-decoration-none">Для сотрудников</a> 
+                            <li class="mb-3"> <a href="#" class="link-light text-decoration-none">Для сотрудников</a> 
                             </li>                             
                             <li class="mb-3"> <a href="https://github.com/selectmedrip" class="link-light text-decoration-none">Наши работы на Гитхаб</a> 
                             </li>                             

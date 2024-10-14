@@ -150,12 +150,6 @@
                                         <p class="small">Главный разработчик</p> 
                                     </div>
                                     <div class="carousel-item"> 
-                                        <img src="https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=360&h=360&fit=crop" class="img-fluid mb-3 rounded-circle testimonial_img" width="120" height="120" alt="User image">
-                                        <p class="mb-4">Пусть он определенным образом убежит из двух домов. Есть такие, которые рожают двоих мужчин и на короткое время от боли размягчают волосы. Элитарные, оставляют ли они на время свои увлечения, или оставляют их ради удовольствия, если только не оставят.</p>
-                                        <h2 class="fw-bold h5 mb-0 text-dark">Валентина Саяпина</h2>
-                                        <p class="small">Генеральный директор</p> 
-                                    </div>
-                                    <div class="carousel-item"> 
                                         <img src="https://images.unsplash.com/photo-1574158622682-e40e69881006?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDd8fGNhdHxlbnwwfHx8&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=360&h=360&fit=crop" class="img-fluid mb-3 rounded-circle testimonial_img" width="120" height="120" alt="User image">
                                         <p class="mb-4">Пусть он определенным образом убежит из двух домов. Есть такие, которые рожают двоих мужчин и на короткое время от боли размягчают волосы. Элитарные, оставляют ли они на время свои увлечения, или оставляют их ради удовольствия, если только не оставят.</p>
                                         <h2 class="fw-bold h5 mb-0 text-dark">Анна Оствальд</h2>
@@ -164,8 +158,7 @@
                                 </div>
                                 <ol class="carousel-indicators position-relative"> 
                                     <li data-bs-target="#carousel5" data-bs-slide-to="0" class="active bg-dark"></li>                                     
-                                    <li data-bs-target="#carousel5" data-bs-slide-to="1" class="bg-dark"></li>                                     
-                                    <li data-bs-target="#carousel5" data-bs-slide-to="2" class="bg-dark"></li>                                     
+                                    <li data-bs-target="#carousel5" data-bs-slide-to="1" class="bg-dark"></li>                                                                         
                                 </ol>                                 
                             </div>                             
                         </div>                         
