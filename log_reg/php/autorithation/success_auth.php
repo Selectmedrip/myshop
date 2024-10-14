@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Макс Дев</title>
     <link rel="stylesheet" href="css/success.css">
 
 </head>
@@ -14,10 +14,10 @@
                 </div>
                     <div class="textBox">
                         <div class="textContent">
-                        <p class="h1">Анна Шоп</p>
+                        <p class="h1">Макс Дев</p>
                             <span class="span">секунду назад</span>
                         </div>
-                        <p class="p">Вы успешно вошли!</p>
+                        <p class="p">Успешная Авторизация</p>
                     <div>
                 </div>
             </div>
