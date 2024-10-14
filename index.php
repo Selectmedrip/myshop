@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="Pinegrow Web Editor - Shop Bootstrap v5 Template">
         <meta name="author" content="">
-        <title>АннаShop</title>
+        <title>Макс Дев</title>
         <!-- Bootstrap core CSS -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <link rel="stylesheet" href="./css/blocks.css">
@@ -28,56 +28,6 @@
             </div>
         </section>
         <main class="pb-5 pt-5">
-            <!--<section> 
-                <div class="container"> 
-                    <div class="justify-content-center row"> 
-                        <div class="col-lg-4 col-md-6 py-3"> 
-                            <div class="position-relative text-dark"> 
-                                <img src="https://images.unsplash.com/photo-1467043237213-65f2da53396f?fp-z=3.75&fp-y=.5&fp-x=0&crop=focalpoint&fit=crop&w=280&h=200" class="img-fluid w-100" alt="Product image" width="280" height="200">
-                                <div class="bottom-0 end-0  pb-5 pe-4 position-absolute ps-4 start-0">
-                                    <h2 class="h5 mb-3">Мужская коллекция</h2><a href="#" class="link-secondary small stretched-link text-decoration-none">Перейти к коллекции</a>
-                                </div>                                 
-                            </div>                             
-                        </div>
-                        <div class="col-lg-4 col-md-6 py-3"> 
-                            <div class="position-relative text-dark"> 
-                                <img src="https://images.unsplash.com/photo-1516762689617-e1cffcef479d?h=200&w=280&fit=crop&crop=focalpoint&fp-x=0&fp-y=.5&fp-z=3.75" class="img-fluid w-100" alt="Product image" width="280" height="200">
-                                <div class="bottom-0 end-0  pb-5 pe-4 position-absolute ps-4 start-0">
-                                    <h2 class="h5 mb-3">Женская коллекция</h2><a href="#" class="link-secondary small stretched-link text-decoration-none">Перейти к коллекции</a>
-                                </div>                                 
-                            </div>                             
-                        </div>                      
-                    </div>                     
-                </div>                 
-            </section> коллекции по принадлежности к полу будут в будущем вместе с поисковиком-->
-            <div class="align-items-center row">
-                <div class="col">
-                    <hr class="mb-0 mt-0"> 
-                </div>
-                <div class="col-auto">
-                    <h2 class="fw-normal lead mb-0 text-dark">% Акции %</h2> 
-                </div>
-                <div class="col">
-                    <hr class="mb-0 mt-0"> 
-                </div>
-            </div>
-            <section class=" pb-3 pt-3 text-center"> 
-                <div class="container"> 
-                    <div class="bg-dark text-white">
-                        <div class="align-items-center row"> 
-                            <div class="col-lg-6 pb-5 pb-lg-0 pt-5 pt-lg-0">
-                                <div class="ps-5 pe-5">
-                                    <h2 class="fw-normal h5 mb-1 text-white-50">Соберите свою колекцию уже сегодня</h2>
-                                    <h3 class="fw-bold h1 mb-4">Межсезонная скидка до 70%</h3><a href="collection.php" class="btn btn-light pb-2 ps-4 pe-4 pt-2">За покупками!</a>
-                                </div>                                 
-                            </div>                             
-                            <div class="col-lg-6"> 
-                                <img src="https://images.unsplash.com/photo-1610970161790-57a21fc7d775?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=480&h=360&fit=crop" class="d-block img-fluid w-100" alt="CTA image" width="480" height="360"> 
-                            </div>                             
-                        </div>
-                    </div>                     
-                </div>                 
-            </section>
             <div class="container pb-4 pt-4">
                 <div class="align-items-center row">
                     <div class="col">
@@ -129,44 +79,10 @@
                                 <div><s class="me-2">₽ 12500</s><span class="h6 text-danger">₽ 10000</span>
                                 </div>                                 
                             </div>                             
-                        </div>
-                        <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1554971052-d465be00ca02?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDIyNHx8dC1zaGlydHxlbnwwfHx8&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=500&h=700&fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 9500</span>
-                                </div>                                 
-                            </div>                             
-                        </div>
-                        <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1600823722907-43f78d7ba93f?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDIyOHx8dC1zaGlydHxlbnwwfHx8&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=500&h=700&fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 10000</span>
-                                </div>                                 
-                            </div>                             
-                        </div>                         
+                        </div>                  
                     </div>                     
                 </div>                 
             </section>
-            <!--<section class="pb-4 pt-4"> 
-                <div class="container"> 
-                    <div class="justify-content-center row"> 
-                        <div class="col-md-6 py-3"> 
-                            <div class="position-relative text-dark"> 
-                                <img src="https://images.unsplash.com/flagged/photo-1556637640-2c80d3201be8?fp-z=2.25&fp-y=.5&fp-x=.5&crop=focalpoint&fit=crop&w=450&h=300" class="img-fluid w-100" alt="Product image" width="450" height="300">
-                                <div class="bottom-0 end-0  pb-5 pe-4 position-absolute ps-4 start-0">
-                                    <h2 class="h4 mb-3">Уникальные кроссовки для него</h2><a href="#" class="link-dark stretched-link text-decoration-none">Посмотреть коллекцию</a>
-                                </div>                                 
-                            </div>                             
-                        </div>
-                        <div class="col-md-6 py-3"> 
-                            <div class="position-relative text-dark"> 
-                                <img src="https://images.unsplash.com/photo-1534534734151-83bc15801803?h=300&w=450&fit=crop&crop=focalpoint&fp-x=.5&fp-y=.5&fp-z=2.25" class="img-fluid w-100" alt="Product image" width="450" height="300">
-                                <div class="bottom-0 end-0  pb-5 pe-4 position-absolute ps-4 start-0">
-                                    <h2 class="h4 mb-3">Уникальные кроссовки для неё</h2><a href="#" class="link-dark stretched-link text-decoration-none">Посмотреть коллекцию</a>
-                                </div>                                 
-                            </div>                             
-                        </div>                         
-                    </div>                     
-                </div>                 
-            </section> также детский отдел будет в будущем-->
             <div class="container pb-4 pt-4">
                 <div class="align-items-center row">
                     <div class="col">

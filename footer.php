@@ -1,7 +1,7 @@
 <footer class="bg-dark pt-5 text-white"> 
             <div class="container"> 
                 <div class="row"> 
-                    <div class="col-xl-4 py-3"> <a href="#" class="d-inline-block fw-bold h2 link-light mb-4 text-decoration-none" target>Анна Шоп</a> 
+                    <div class="col-xl-4 py-3"> <a href="#" class="d-inline-block fw-bold h2 link-light mb-4 text-decoration-none" target>Макс Дев</a> 
                         <p class="mb-3">                                Нужна помощь? Свяжитесь с нами!</p> 
                         <div class="mb-4"> <a href="tel:+74954567689" class="link-light text-decoration-none">+7 495 456-76-89</a> <br> <a href="mailto:wrld@annashop.ru" class="link-light text-decoration-none">wrld@annashop.ru</a> 
                         </div>                         
@@ -18,35 +18,7 @@
                             <li class="mb-3"> <a href="blog.php" class="link-light text-decoration-none">Блог</a> 
                             </li>                             
                         </ul>                         
-                    </div>                     
-                    <!--<div class="col-md-3 col-xl-2 py-3"> 
-                        <h2 class="fw-normal h5 mb-4 text-uppercase text-white">Services</h2> 
-                        <ul class="list-unstyled"> 
-                            <li class="mb-3"> <a href="#" class="link-light text-decoration-none">Web Design</a> 
-                            </li>                             
-                            <li class="mb-3"> <a href="#" class="link-light text-decoration-none">Web Development</a> 
-                            </li>                             
-                            <li class="mb-3"> <a href="#" class="link-light text-decoration-none">WordPress</a> 
-                            </li>                             
-                            <li class="mb-3"> <a href="#" class="link-light text-decoration-none">Digital Marketing</a> 
-                            </li>                             
-                            <li class="mb-3"> <a href="#" class="link-light text-decoration-none">Content Writing</a> 
-                            </li>                             
-                        </ul>                         
-                    </div> Запасной блок-->                     
-                    <div class="col-md-6 col-xl-4 py-3"> 
-                        <h2 class="fw-normal h5 mb-4 text-uppercase text-white">Подпишитесь!</h2>
-                        <p class="mb-3">Подпишитесь на нашу рассылку и получайте эксклюзивные обновления прямо на свою почту.</p>
-                        <form class="mb-4"> 
-                            <div class="bg-white border input-group overflow-hidden p-1">
-                                <input type="text" class="border-0 form-control pe-3 ps-3" placeholder="Ваша почта..." aria-label="Recipient's email" aria-describedby="newsletter-submit2">
-                                <button class="btn btn-dark pb-2 ps-4 pe-4 pt-2 rounded-0" type="button" id="newsletter-submit2" aria-label="submit">
-                                    <svg viewBox="0 0 24 24" fill="currentColor" class="d-inline-block" height="16" width="16">
-                                        <path d="M1.946 9.315c-.522-.174-.527-.455.01-.634l19.087-6.362c.529-.176.832.12.684.638l-5.454 19.086c-.15.529-.455.547-.679.045L12 14l6-8-8 6-8.054-2.685z"></path>
-                                    </svg>                                     
-                                </button>
-                            </div>
-                        </form>
+                    </div>
                         <h2 class="fw-normal h5 mb-3 text-uppercase text-white">Мы в соцсетях</h2>
                         <div class="d-inline-flex flex-wrap"> <a href="#" class="link-light p-1" aria-label="twitter link"> <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20"> 
                                     <path d="M22.162 5.656a8.384 8.384 0 0 1-2.402.658A4.196 4.196 0 0 0 21.6 4c-.82.488-1.719.83-2.656 1.015a4.182 4.182 0 0 0-7.126 3.814 11.874 11.874 0 0 1-8.62-4.37 4.168 4.168 0 0 0-.566 2.103c0 1.45.738 2.731 1.86 3.481a4.168 4.168 0 0 1-1.894-.523v.052a4.185 4.185 0 0 0 3.355 4.101 4.21 4.21 0 0 1-1.89.072A4.185 4.185 0 0 0 7.97 16.65a8.394 8.394 0 0 1-6.191 1.732 11.83 11.83 0 0 0 6.41 1.88c7.693 0 11.9-6.373 11.9-11.9 0-.18-.005-.362-.013-.54a8.496 8.496 0 0 0 2.087-2.165z"/> 
@@ -64,7 +36,7 @@
                     <hr class="border-secondary mt-0"> 
                     <div class="align-items-center row">
                         <div class="col-md pb-2 pt-2">
-                            <p class="mb-0">&copy; 2023 - 2024 | Все права защищены - Анна SHOP</p>
+                            <p class="mb-0">&copy; 2023 - 2024 | Все права защищены - Макс Дев</p>
                         </div>
                         <div class="col-md-auto pb-2 pt-2"><a href="https://e-kontur.ru/enquiry/1318/privacy" class="link-light text-decoration-none">Политика конфиденциальности</a> | <a href="https://iflashco.ru/usloviya-soglasheniya" class="link-light text-decoration-none">Условия использования</a>
                         </div>
