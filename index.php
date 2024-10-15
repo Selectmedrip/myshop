@@ -45,41 +45,35 @@
                 <div class="container"> 
                     <div class="justify-content-center row"> 
                         <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1598403031688-e7cfd2c222c4?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDM2NXx8dCUyMHNoaXJ0fGVufDB8fHw&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=500&h=700&fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div class=""><s class="me-2">₽ 9500</s><span class="h6 text-danger">₽ 7500</span>
+                            <div> <a href="#" class="d-block mb-3"><img src="catalog/m1.jpeg" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Lego Ninjago</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">"Тренировочный центр ниндзя"</h3></a>
+                                <div class=""><s class="me-2">₽ 25000</s><span class="h6 text-danger">₽ 17500</span>
                                 </div>                                 
                             </div>                             
                         </div>                         
                         <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1589747297079-6ab76138dcab?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDJ8fHQtc2hpcnR8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=500&h=700&fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 10000</span>
+                            <div> <a href="#" class="d-block mb-3"><img src="catalog/m2.jpg" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Lego Ninjago</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">"Золотой ультрадракон Ллойда"</h3></a>
+                                <div><s class="me-2">₽ 20000</s><span class="h6 text-danger">₽ 17500</span>
                                 </div>                                 
                             </div>                             
                         </div>                         
                         <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1554526735-356bb52de232?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDIxfHx0LXNoaXJ0fGVufDB8fHw&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=500&h=700&fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 9500</span>
+                            <div> <a href="#" class="d-block mb-3"><img src="catalog/m4.jpg" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Lego City</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">"Побег из полицейского участка"</h3></a>
+                                <div><s class="me-2">₽ 16500</s><span class="h6 text-danger">₽ 12500</span>
                                 </div>                                 
                             </div>                             
                         </div>
                         <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDM0OXx8dC1zaGlydHxlbnwwfHx8&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=500&h=700&fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 7500</span>
+                            <div> <a href="#" class="d-block mb-3"><img src="catalog/m5.jpg" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Lego City</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">"Железная дорога"</h3></a>
+                                <div><span class="me-2">₽ 37600</span>
                                 </div>                                 
                             </div>                             
                         </div>
                         <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1605295982505-556d4026a930?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDg4fHx0LXNoaXJ0fGVufDB8fHw&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=500&h=700&fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 11500</span>
+                            <div> <a href="#" class="d-block mb-3"><img src="catalog/m3.jpg" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Lego Ninjago</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">"Каменный робот огня"</h3></a>
+                                <div><span class="me-2">₽ 14500</span>
                                 </div>                                 
                             </div>                             
-                        </div>
-                        <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1604908695926-17ee04a3c54f?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE4M3x8dC1zaGlydHxlbnwwfHx8&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=500&h=700&fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><s class="me-2">₽ 12500</s><span class="h6 text-danger">₽ 10000</span>
-                                </div>                                 
-                            </div>                             
-                        </div>                  
+                        </div>           
                     </div>                     
                 </div>                 
             </section>
