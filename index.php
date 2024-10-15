@@ -46,7 +46,7 @@
                     <div class="justify-content-center row"> 
                         <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
                             <div> <a href="#" class="d-block mb-3"><img src="catalog/m1.jpeg" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Lego Ninjago</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">"Тренировочный центр ниндзя"</h3></a>
-                                <div class=""><s class="me-2">₽ 25000</s><span class="h6 text-danger">₽ 17500</span>
+                                <div><s class="me-2">₽ 25000</s><span class="h6 text-danger">₽ 17500</span>
                                 </div>                                 
                             </div>                             
                         </div>                         
@@ -77,49 +77,7 @@
                     </div>                     
                 </div>                 
             </section>
-            <div class="container pb-4 pt-4">
-                <div class="align-items-center row">
-                    <div class="col">
-                        <hr class="mb-0 mt-0"/> 
-                    </div>
-                    <div class="col-auto">
-                        <h2 class="fw-normal lead mb-0 text-dark">Новые поступление</h2> 
-                    </div>
-                    <div class="col">
-                        <hr class="mb-0 mt-0"/> 
-                    </div>
-                </div>
-            </div>
-            <section>
-                <div class="container"> 
-                    <div class="justify-content-center row"> 
-                        <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1553798397-0aee146267a1?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDQ4fHx0LXNoaXJ0fGVufDB8fHw&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=500&h=700&fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div class=""><s class="me-2">₽ 9500</s><span class="h6 text-danger">₽ 7500</span>
-                                </div>                                 
-                            </div>                             
-                        </div>                         
-                        <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1569033083669-a63ea13bc769?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDM2NHx8dC1zaGlydHxlbnwwfHx8&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=500&h=700&fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 10000</span>
-                                </div>                                 
-                            </div>                             
-                        </div>                         
-                        <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1611986773179-7d14794ede62?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDQ2Nnx8dCUyMHNoaXJ0fGVufDB8fHw&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=500&h=700&fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 9500</span>
-                                </div>                                 
-                            </div>                             
-                        </div>
-                        <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDcwOXx8dC1zaGlydHxlbnwwfHx8&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=500&h=700&fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 7500</span>
-                                </div>                                 
-                            </div>                             
-                        </div>                         
-                    </div>
-                </div>                 
-            </section>
+        
             <div class="align-items-center row">
                 <div class="col">
                     <hr class="mb-0 mt-0"> 

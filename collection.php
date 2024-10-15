@@ -35,110 +35,47 @@
                 <div class="container"> 
                     <div class="justify-content-center row"> 
                         <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1598403031688-e7cfd2c222c4?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDM2NXx8dCUyMHNoaXJ0fGVufDB8fHw&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=500&amp;h=700&amp;fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
+                            <div> <a href="#" class="d-block mb-3"><img src="catalog/m1.jpeg" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Lego Ninjago</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">"Тренировочный центр ниндзя"</h3></a>
                                 
-                            <div class=""><s class="me-2">₽ 9500</s><span class="h6 text-danger">₽ 7500</span><button class="add-to-cart-btn" data-id="1">
+                            <div><s class="me-2">₽ 25000</s><span class="h6 text-danger">₽ 17500</span><button class="add-to-cart-btn" data-id="1">
                                     <p class="text">В корзину</p>
                                 </button>
                                 </div>
                             </div>                             
                         </div>                         
                         <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1589747297079-6ab76138dcab?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDJ8fHQtc2hpcnR8ZW58MHx8fA&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=500&amp;h=700&amp;fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 10000</span><button class="add-to-cart-btn" data-id="2">
+                            <div><a href="#" class="d-block mb-3"><img src="catalog/m2.jpg" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Lego Ninjago</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">"Золотой ультрадракон Ллойда"</h3></a>
+                                <div><s class="me-2">₽ 20000</s><span class="h6 text-danger">₽ 17500</span><button class="add-to-cart-btn" data-id="2">
                                     <p class="text">В корзину</p>
                                 </button>
                                 </div>                                 
                             </div>                             
                         </div>                         
                         <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1554526735-356bb52de232?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDIxfHx0LXNoaXJ0fGVufDB8fHw&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=500&amp;h=700&amp;fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 9500</span><button class="add-to-cart-btn" data-id="3">
+                            <div> <a href="#" class="d-block mb-3"><img src="catalog/m4.jpg" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Lego City</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">"Побег из полицейского участка"</h3></a>
+                                <div><s class="me-2">₽ 16500</s><span class="h6 text-danger">₽ 12500</span><button class="add-to-cart-btn" data-id="3">
                                     <p class="text">В корзину</p>
                                 </button>
                                 </div>                                 
                             </div>                             
                         </div>
                         <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDM0OXx8dC1zaGlydHxlbnwwfHx8&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=500&amp;h=700&amp;fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 7500</span><button class="add-to-cart-btn" data-id="4">
+                            <div> <a href="#" class="d-block mb-3"><img src="catalog/m5.jpg" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Lego City</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">"Железная дорога"</h3></a>
+                                <div><span class="me-2">₽ 37600</span><button class="add-to-cart-btn" data-id="4">
                                     <p class="text">В корзину</p>
                                 </button>
                                 </div>                                 
                             </div>                             
                         </div>
                         <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1605295982505-556d4026a930?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDg4fHx0LXNoaXJ0fGVufDB8fHw&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=500&amp;h=700&amp;fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 11500</span><button class="add-to-cart-btn" data-id="5">
+                            <div> <a href="#" class="d-block mb-3"><img src="catalog/m3.jpg" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Lego Ninjago</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">"Каменный робот огня"</h3></a>
+                                <div><span class="me-2">₽ 14500</span><button class="add-to-cart-btn" data-id="5">
                                     <p class="text">В корзину</p>
                                 </button>
                                 </div>                                 
                             </div>                             
                         </div>
-                        <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1604908695926-17ee04a3c54f?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE4M3x8dC1zaGlydHxlbnwwfHx8&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=500&amp;h=700&amp;fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><s class="me-2">₽ 12500</s><span class="h6 text-danger">₽ 10000</span><button class="add-to-cart-btn" data-id="6">
-                                    <p class="text">В корзину</p>
-                                </button>
-                                </div>                                 
-                            </div>                             
-                        </div>
-                        <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1554971052-d465be00ca02?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDIyNHx8dC1zaGlydHxlbnwwfHx8&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=500&amp;h=700&amp;fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 9500</span><button class="add-to-cart-btn" data-id="7">
-                                    <p class="text">В корзину</p>
-                                </button>
-                                </div>                                 
-                            </div>                             
-                        </div>
-                        <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1600823722907-43f78d7ba93f?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDIyOHx8dC1zaGlydHxlbnwwfHx8&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=500&amp;h=700&amp;fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 10000</span><button class="add-to-cart-btn" data-id="8">
-                                    <p class="text">В корзину</p>
-                                </button>
-                                </div>                                 
-                            </div>                             
-                        </div>                         
                     </div>                     
-                </div>                 
-            </section>
-            <section>
-                <div class="container"> 
-                    <div class="justify-content-center row"> 
-                        <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1553798397-0aee146267a1?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDQ4fHx0LXNoaXJ0fGVufDB8fHw&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=500&amp;h=700&amp;fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div class=""><s class="me-2">₽ 9500</s><span class="h6 text-danger">₽ 7500</span><button class="add-to-cart-btn" data-id="9">
-                                    <p class="text">В корзину</p>
-                                </button>
-                                </div>                                 
-                            </div>                             
-                        </div>                         
-                        <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1569033083669-a63ea13bc769?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDM2NHx8dC1zaGlydHxlbnwwfHx8&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=500&amp;h=700&amp;fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 10000</span><button class="add-to-cart-btn" data-id="10">
-                                    <p class="text">В корзину</p>
-                                </button>
-                                </div>                                 
-                            </div>                             
-                        </div>                         
-                        <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1611986773179-7d14794ede62?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDQ2Nnx8dCUyMHNoaXJ0fGVufDB8fHw&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=500&amp;h=700&amp;fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 9500</span><button class="add-to-cart-btn" data-id="11">
-                                    <p class="text">В корзину</p>
-                                </button>
-                                </div>                                 
-                            </div>                             
-                        </div>
-                        <div class="col-6 col-lg-3 col-md-4 pb-3 pt-3"> 
-                            <div> <a href="#" class="d-block mb-3"><img src="https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDcwOXx8dC1zaGlydHxlbnwwfHx8&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=500&amp;h=700&amp;fit=crop" class="img-fluid w-100" alt="Product image" width="500" height="700"></a><a href="#" class="d-inline-block link-secondary mb-2 small text-decoration-none">Armani</a><a href="#" class="link-dark text-decoration-none"><h3 class="h6">Футболка из вискозного трикотажа</h3></a>
-                                <div><span class="me-2">₽ 7500</span><button class="add-to-cart-btn" data-id="12">
-                                    <p class="text">В корзину</p>
-                                </button>
-                                </div>                                 
-                            </div>                             
-                        </div>                         
-                    </div>
-                                        
                 </div>                 
             </section>
 

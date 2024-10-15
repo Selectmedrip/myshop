@@ -42,7 +42,7 @@
                         // Вывод данных каждой строки
                         while($row = $result->fetch_assoc()) {
                             echo "<tr>";
-                            echo "<td><img src='" . $row["product_image"] . "' alt='Product image'></td>";
+                            echo "<td><img src='" . $row["product_image"] . "' alt='Product image' style='width: 150px; height: 150px;'></td>";
                             echo "<td>" . $row["product_id"] . "</td>";
                             echo "<td>" . $row["product_name"] . "</td>";
                             echo "<td>" . $row["product_description"] . "</td>";
