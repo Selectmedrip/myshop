@@ -13,7 +13,7 @@
                             </li>                             
                             <li class="mb-3"> <a href="#" class="link-light text-decoration-none">Для сотрудников</a> 
                             </li>                             
-                            <li class="mb-3"> <a href="https://github.com/selectmedrip" class="link-light text-decoration-none">Наши работы на Гитхаб</a> 
+                            <li class="mb-3"> <a href="https://github.com/Xenox" class="link-light text-decoration-none">Наши работы на Гитхаб</a> 
                             </li>                             
                             <li class="mb-3"> <a href="blog.php" class="link-light text-decoration-none">Блог</a> 
                             </li>                             

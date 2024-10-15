@@ -16,7 +16,7 @@
         <?php
         include("header.php");
         ?>
-        <section class="background-cover bg-dark pb-5 position-relative pt-5 text-white" style="background-image:url('https://images.unsplash.com/photo-1523381294911-8d3cead13475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwyMDkyMnwwfDF8c2VhcmNofDI0fHxmYXNoaW9uJTIwc2hvb3R8ZW58MHx8fA&ixlib=rb-1.2.1&q=80&w=1080');">
+        <section class="background-cover bg-dark pb-5 position-relative pt-5 text-white" style="background-image:url('photo/main1.png');">
             <div class="container pb-5 pt-5">
                 <div class="pb-5 pt-5 row">
                     <div class="col-lg-7 pb-5 pt-5">
@@ -271,12 +271,12 @@
         </main>
         <div class="container-fluid p-0">
             <div class="g-0 row">
-                <img src="https://images.unsplash.com/photo-1524738258074-f8125c6a7588?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=400&h=400&fit=crop" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
-                <img src="https://images.unsplash.com/photo-1532453288672-3a27e9be9efd?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=400&h=400&fit=crop" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
-                <img src="https://images.unsplash.com/photo-1477044545293-98b9221de30a?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=400&h=400&fit=crop" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
-                <img src="https://images.unsplash.com/photo-1603217192634-61068e4d4bf9?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=400&h=400&fit=crop" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
-                <img src="https://images.unsplash.com/photo-1583001308455-e5d48b880c67?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=400&h=400&fit=crop" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
-                <img src="https://images.unsplash.com/photo-1579362094443-5d73793e4d3c?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=400&h=400&fit=crop" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
+                <img src="photo/m1.jpg" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
+                <img src="photo/m2.jpg" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
+                <img src="photo/m3.jpg" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
+                <img src="photo/m4.jpg" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
+                <img src="photo/m5.jpeg" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
+                <img src="photo/m6.jpg" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
             </div>
         </div>
         <?php
