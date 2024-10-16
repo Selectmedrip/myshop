@@ -35,8 +35,7 @@ async def send_order_info(message: types.Message):
     user_info = user_data.get(message.from_user.id)
     if user_info and 'name' in user_info and 'email' in user_info:
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        response = (f"Время: {now}\n"
-                    f"Дата заказа: {now}\n"
+        response = (f"Дата и время заказа: {now}\n"
                     f"Имя пользователя: {user_info['name']}\n"
                     f"Электронная почта: {user_info['email']}\n"
                     "Статус заказа: Собирается на складе")
