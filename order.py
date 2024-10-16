@@ -5,7 +5,7 @@ from aiogram.utils import executor
 from datetime import datetime
 import os
 
-API_TOKEN = '7607371096:AAGYkgwtjv8nr0nb9StJMDqcpbat_jCKslI'
+API_TOKEN = ''
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)

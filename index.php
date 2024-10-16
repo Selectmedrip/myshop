@@ -149,37 +149,37 @@
                 <div class="container"> 
                     <div class="justify-content-center row"> 
                         <div class="col-lg-4 col-md-6 pb-3 pt-3"> 
-                            <div class="card h-100"><a href="#" class="d-block"><img src="https://images.unsplash.com/photo-1508672019048-805c876b67e2?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDJ8fHRyYXZlbHxlbnwwfHx8&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=700&h=480&fit=crop" class="card-img-top img-fluid" alt="Blog image" width="700" height="480"></a>
-                                <div class="card-body"><a href="#" class="link-dark text-decoration-none"><h2 class="card-title h5">Расслабиться и наблюдать за отражением гор в озере.</h2></a>
-                                    <p class="card-text">Они очень мягкие и не оставляют места, где возникает боль. Ему нравится заботиться о своей семье.</p>
+                            <div class="card h-100"><a href="#" class="d-block"><img src="https://media.istockphoto.com/id/484851772/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%BC%D0%B5%D0%BD-%D0%B8-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA.jpg?s=612x612&w=0&k=20&c=bcfBPG_Z3hbDPJ5N6oLnt4xzlMZ6UZ1A6GE3huTWTzM=" class="card-img-top img-fluid" alt="Blog image" width="700" height="480"></a>
+                                <div class="card-body"><a href="#" class="link-dark text-decoration-none"><h2 class="card-title h5">Хорошие показатели в мире инженеров.</h2></a>
+                                    <p class="card-text">Как мы вышли на мировой уровень в разных отраслях инженерии и конструирования.</p>
                                 </div>
-                                <div class="align-items-center card-footer d-flex justify-content-between small"><a href="#" class="align-items-center d-flex link-dark text-decoration-none"><img src="https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=400&h=400&fit=crop" class="me-2 rounded-circle" width="40" height="40" alt="Author image"><div>
-                                            <h3 class="h6 mb-0">Валентина Саяпина</h3>
-                                            <p class="mb-0 text-secondary">10 Февраля 2024</p>
+                                <div class="align-items-center card-footer d-flex justify-content-between small"><a href="#" class="align-items-center d-flex link-dark text-decoration-none"><img src="https://media.istockphoto.com/id/459241335/ru/%D1%84%D0%BE%D1%82%D0%BE/lego-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%BC%D0%B5%D0%BD-%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA.jpg?s=1024x1024&w=is&k=20&c=oEhe4dexaljp0ILeW2OWq-9cw-SaVKFzPqqVamGPknA=" class="me-2 rounded-circle" width="40" height="40" alt="Author image"><div>
+                                        <h3 class="h6 mb-0">Клюева Анна</h3>
+                                            <p class="mb-0 text-secondary">30 Октября 2021</p>
                                         </div></a><!--<span>6 min</span>-->
                                 </div>
                             </div>                             
                         </div>
                         <div class="col-lg-4 col-md-6 pb-3 pt-3"> 
-                            <div class="card h-100"><a href="#" class="d-block"><img src="https://images.unsplash.com/photo-1499363536502-87642509e31b?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE2fHx0cmF2ZWx8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=700&h=480&fit=crop" class="card-img-top img-fluid" alt="Blog image" width="700" height="480"></a>
+                            <div class="card h-100"><a href="#" class="d-block"><img src="https://media.istockphoto.com/id/484873676/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D1%81-%D1%82%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B8.jpg?s=612x612&w=0&k=20&c=7WaHNl0TopEMt218iFiOwSBjQUFbnm6xFWaU8dKq9o8=" class="card-img-top img-fluid" alt="Blog image" width="700" height="480"></a>
                                 <div class="card-body"><a href="#" class="link-dark text-decoration-none"><h2 class="card-title h5">Как получать удовольствие от ведения своего бизнеса?</h2></a>
-                                    <p class="card-text">Они очень мягкие и не оставляют места, где возникает боль. Ему нравится заботиться о своей семье.</p>
+                                    <p class="card-text">Топ-10 советов от ведушего маркетолога нашей компании</p>
                                 </div>
-                                <div class="align-items-center card-footer d-flex justify-content-between small"><a href="#" class="align-items-center d-flex link-dark text-decoration-none"><img src="https://images.unsplash.com/photo-1574158622682-e40e69881006?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDd8fGNhdHxlbnwwfHx8&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=400&h=400&fit=crop" class="me-2 rounded-circle" width="40" height="40" alt="Author image"><div>
-                                            <h3 class="h6 mb-0">Анна Оствальд</h3>
-                                            <p class="mb-0 text-secondary">10 Февраля 2024</p>
+                                <div class="align-items-center card-footer d-flex justify-content-between small"><a href="#" class="align-items-center d-flex link-dark text-decoration-none"><img src="https://media.istockphoto.com/id/466807608/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-lego-minifigure.jpg?s=1024x1024&w=is&k=20&c=nea-vjDHGkIrQYi4Tr742BY6cfG-CyuvrtJkX3zvMUs=" class="me-2 rounded-circle" width="40" height="40" alt="Author image"><div>
+                                            <h3 class="h6 mb-0">Надеждин Олег</h3>
+                                            <p class="mb-0 text-secondary">24 Августа 2024</p>
                                         </div></a><!--<span>8 min</span>-->
                                 </div>
                             </div>                             
                         </div>
                         <div class="col-lg-4 col-md-6 pb-3 pt-3"> 
-                            <div class="card h-100"><a href="#" class="d-block"><img src="https://images.unsplash.com/photo-1471506480208-91b3a4cc78be?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDUyfHx0cmF2ZWx8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=700&h=480&fit=crop" class="card-img-top img-fluid" alt="Blog image" width="700" height="480"></a>
-                                <div class="card-body"><a href="#" class="link-dark text-decoration-none"><h2 class="card-title h5">Как разглядеть цвета во время езды на велосипеде по горному перевалу?</h2></a>
-                                    <p class="card-text">Они очень мягкие и не оставляют места, где возникает боль. Ему нравится заботиться о своей семье.</p>
+                            <div class="card h-100"><a href="#" class="d-block"><img src="https://images.inc.com/uploaded_files/image/1920x1080/getty_491780933_9706479704500146_61917.jpg" class="card-img-top img-fluid" alt="Blog image" width="700" height="480"></a>
+                                <div class="card-body"><a href="#" class="link-dark text-decoration-none"><h2 class="card-title h5">Как мы помогаем образованию?</h2></a>
+                                    <p class="card-text">Наши технологии по содействию креативного сознания в образовательных целях.</p>
                                 </div>
-                                <div class="align-items-center card-footer d-flex justify-content-between small"><a href="#" class="align-items-center d-flex link-dark text-decoration-none"><img src="https://images.unsplash.com/photo-1517101724602-c257fe568157?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDZ8fHBhcnJvdHxlbnwwfHx8&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=400&h=400&fit=crop" class="me-2 rounded-circle" width="40" height="40" alt="Author image"><div>
-                                            <h3 class="h6 mb-0">Арман Папиянц</h3>
-                                            <p class="mb-0 text-secondary">10 Февраля 2024</p>
+                                <div class="align-items-center card-footer d-flex justify-content-between small"><a href="#" class="align-items-center d-flex link-dark text-decoration-none"><img src="https://w7.pngwing.com/pngs/2/218/png-transparent-emmet-the-lego-movie-videogame-princess-unikitty-wyldstyle-president-business-emmet-lego-movie-smiley-material-electric-blue.png" class="me-2 rounded-circle" width="40" height="40" alt="Author image"><div>
+                                            <h3 class="h6 mb-0">Емельянова Екатерина</h3>
+                                            <p class="mb-0 text-secondary">13 Октября 2023</p>
                                         </div></a><!--<span>5 min</span>-->
                                 </div>
                             </div>                             
