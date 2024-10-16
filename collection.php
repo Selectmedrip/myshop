@@ -81,9 +81,7 @@
 
         <div id="cart-header" class="container mt-5 pb-4 pt-4"><hr class="mb-0 mt-0"></div>
 
-        <div id="cart" class="cart" style="display: none;">
-              
-        </div>
+        <div id="cart" class="cart" style="display: none;"></div>
 
     <?php
         include("footer.php");

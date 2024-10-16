@@ -25,11 +25,7 @@
                         <li class="nav-item"> <a class="nav-link px-lg-3 py-lg-4" href="about.php">О нас</a> 
                         </li>                         
                         <li class="nav-item"> <a class="nav-link px-lg-3 py-lg-4" href="collection.php">Коллекция</a> 
-                        </li>
-                        <!--<li class="nav-item"> <a class="nav-link px-lg-3 py-lg-4" href="#">Магазин</a> будет в будущем-->
-                        </li>                         
-                        <li class="nav-item"> <a class="nav-link px-lg-3 py-lg-4" href="blog.php">Наш блог</a> 
-                        </li>                         
+                        </li>                 
                     </ul>                     
                 </div>                 
             </div>             

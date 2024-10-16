@@ -11,8 +11,6 @@
                         <ul class="list-unstyled"> 
                             <li class="mb-3"> <a href="about.php" class="link-light text-decoration-none">О нас</a> 
                             </li>                        
-                            <li class="mb-3"> <a href="blog.php" class="link-light text-decoration-none">Блог</a> 
-                            </li>
                             <li class="mb-3"> <a href="index.php" class="link-light text-decoration-none">Главная</a> 
                             </li>                        
                             <li class="mb-3"> <a href="collection.php" class="link-light text-decoration-none">Товары</a> 
