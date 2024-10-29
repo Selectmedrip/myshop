@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="Pinegrow Web Editor - Shop Bootstrap v5 Template">
         <meta name="author" content="">
-        <title>АннаShop</title>
+        <title>Бекиш ИТ</title>
         <!-- Bootstrap core CSS -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <link rel="stylesheet" href="./css/blocks.css">
@@ -42,12 +42,12 @@
                         // Вывод данных каждой строки
                         while($row = $result->fetch_assoc()) {
                             echo "<tr>";
-                            echo "<td><img src='" . $row["product_image"] . "' alt='Product image'></td>";
+                            echo "<td><img src='" . $row["product_image"] . "' alt='Product image' style='width: 150px; height: 150px;'></td>";
                             echo "<td>" . $row["product_id"] . "</td>";
                             echo "<td>" . $row["product_name"] . "</td>";
                             echo "<td>" . $row["product_description"] . "</td>";
                             echo "<td>1</td>"; // Замените это на реальное количество
-                            echo "<td>" . $row["product_price"] . "</td>";
+                            echo "<td>" . $row["product_price"] . " ₽</td>";
                             echo "</tr>";
                         }
                     } else {

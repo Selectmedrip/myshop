@@ -20,7 +20,7 @@
 
 .title {
     font-size: 28px;
-    color: #8FBC8F;
+    color: #996ec0;
     font-weight: 600;
     letter-spacing: -1px;
     position: relative;
@@ -37,13 +37,13 @@
     width: 16px;
     border-radius: 50%;
     left: 0px;
-    background-color: #8FBC8F;
+    background-color: #996ec0;
 }
 
 .title::before {
     width: 18px;
     height: 18px;
-    background-color: #8FBC8F;
+    background-color: #996ec0;
 }
 
 .title::after {
@@ -65,11 +65,11 @@
 }
 
 .signin a {
-    color: royalblue;
+    color: #996ec0;
 }
 
 .signin a:hover {
-    text-decoration: underline royalblue;
+    text-decoration: underline #996ec0;
 }
 
 .flex {
@@ -122,13 +122,13 @@
 }
 
 .form label .input:valid+span {
-    color: green;
+    color: #996ec0;
 }
 
 .submit {
     border: none;
     outline: none;
-    background-color: #8FBC8F;
+    background-color: #996ec0;
     padding: 10px;
     border-radius: 10px;
     color: #fff;
@@ -138,7 +138,7 @@
 }
 
 .submit:hover {
-    background-color: #556B2F;
+    background-color: #71b300;
 }
 
 @keyframes pulse {
