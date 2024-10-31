@@ -16,17 +16,20 @@
         <?php
         include("header.php");
         ?>
+    
+        
+
         
         
 
         <div class="container-fluid p-0">
             <div class="g-0 row">
-                <img src="https://images.unsplash.com/photo-1524738258074-f8125c6a7588?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=400&h=400&fit=crop" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
-                <img src="https://images.unsplash.com/photo-1532453288672-3a27e9be9efd?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=400&h=400&fit=crop" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
-                <img src="https://images.unsplash.com/photo-1477044545293-98b9221de30a?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=400&h=400&fit=crop" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
-                <img src="https://images.unsplash.com/photo-1603217192634-61068e4d4bf9?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=400&h=400&fit=crop" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
-                <img src="https://images.unsplash.com/photo-1583001308455-e5d48b880c67?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=400&h=400&fit=crop" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
-                <img src="https://images.unsplash.com/photo-1579362094443-5d73793e4d3c?ixid=MXwyMDkyMnwwfDF8c2VhcmNofDE5fHxkb2d8ZW58MHx8fA&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=400&h=400&fit=crop" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCze3L8EilLHqZhbZUKd_NrlyTxGg_mU-91A&s" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
+                <img src="https://cdn.lmbd.ru/dedc03e9-1b16-4569-ae6d-e44f48627b0f/-/preview/1666x920/-/format/auto/-/quality/lighter/-/resize/264x/" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
+                <img src="https://cdn.lmbd.ru/7f8554eb-0c5a-493b-b7d6-cbed0d32d131/-/preview/1666x920/-/format/auto/-/quality/lighter/-/resize/x264/" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
+                <img src="https://cdn.lmbd.ru/9cb333c0-d91e-4573-938a-8a50191544b7/-/preview/1666x920/-/format/auto/-/quality/lighter/-/resize/x460/" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
+                <img src="https://cdn.lmbd.ru/82f767a0-2697-471b-8ac2-f901b9d559a5/-/preview/1666x920/-/format/auto/-/quality/lighter/-/resize/x264/" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
+                <img src="https://cdn.lmbd.ru/44e1b059-231b-4a26-813c-074a90ca292e/-/preview/1666x920/-/format/auto/-/quality/lighter/-/resize/x264/" class="col-2 img-fluid" alt="Instagram image" width="400" height="400"/>
             </div>
         </div>
         <?php

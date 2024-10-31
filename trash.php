@@ -57,6 +57,7 @@
                 ?>
             </tbody>
         </table>
+        <button class="add-to-cart-btn" style='width: 100%; margin-bottom: 20px;' onclick="window.location.href='order.php'"><p class="text">Оформить заказ</p></button>
     </div>
     <?php
         include("footer.php");
