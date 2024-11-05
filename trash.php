@@ -47,7 +47,7 @@
                             echo "<td>" . $row["product_name"] . "</td>";
                             echo "<td>" . $row["product_description"] . "</td>";
                             echo "<td>1</td>"; // Замените это на реальное количество
-                            echo "<td>" . $row["product_price"] . " ₽</td>";
+                            echo "<td>" . $row["product_price"] . " ₽/кг</td>";
                             echo "</tr>";
                         }
                     } else {
