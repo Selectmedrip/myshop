@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Макс Дев</title>
+    <title>Фреш Шоп</title>
     <link rel="stylesheet" href="log_reg/php/autorithation/css/success.css">
 
 </head>
@@ -14,7 +14,7 @@
                 </div>
                     <div class="textBox">
                         <div class="textContent">
-                        <p class="h1">Бекиш ИТ</p>
+                        <p class="h1">Фреш Шоп</p>
                             <span class="span">секунду назад</span>
                         </div>
                         <p class="p">Спасибо за заказ!<br>Вы можете узнать статус вашего заказа в нашем Телеграм боте по кнопке ниже.</p>

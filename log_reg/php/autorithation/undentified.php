@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Бекиш ИТ</title>
+    <title>Фреш Шоп</title>
     <link rel="stylesheet" href="css/success.css">
 
 </head>
@@ -14,7 +14,7 @@
                 </div>
                     <div class="textBox">
                         <div class="textContent">
-                        <p class="h1">Бекиш ИТ</p>
+                        <p class="h1">Фреш Шоп</p>
                         </div>
                         <p class="p">Неправильный email или пароль! Попробуйте ещё раз.</p>
                     <div>
